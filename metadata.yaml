@@ -1,10 +1,16 @@
 _repo: Elemens-de-la-philosophie-de-Neuton-Mis-a-la-portee-de-tout-le-monde_50340
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50340-h/images/cover.jpg
 creator:
   author:
     agent_name: Voltaire, Francois-Marie de
     gutenberg_agent_id: '45824'
     url: http://www.gutenberg.org/2009/agents/45824
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50340#Elemens-de-la-philosophie-de-Neuton-Mis-a-la-portee-de-tout-le-monde
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Sciences et Techniques
